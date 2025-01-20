@@ -1,2 +1,0 @@
-# 2025_BCA_JobInterview_Preparation
-Interview_Preparation
